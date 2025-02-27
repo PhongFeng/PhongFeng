@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Hello](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVteDhqdHRqbGV5Z2x1Z3Rpa3VmcGRvMDVqN29xYXo1ZGd4Z3E2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VIKa3CjZDCoymNcBY5/giphy.gif)  
+
 ### 一个正在探索代码世界的冒险家 🚀
 - 🔭 目前正在：和bug斗智斗勇，试图驯服它们成为我的宠物。
 
