@@ -27,5 +27,6 @@
 
 ### 我的Github数据 📊
 
-![Github数据](https://github-readme-stats.vercel.app/api?username=PhongFeng&show_icons=true&theme=radical)
+![Github数据](https://github-readme-stats.vercel.app/api?username=PhongFeng&show_icons=true&theme=radical)  
 
+![Skills](https://skillicons.dev/icons?i=unity,cs,unreal,py,lua,cpp,github,blender,jenkins)  
