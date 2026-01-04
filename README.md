@@ -24,9 +24,5 @@
 ### 我最喜欢的名言 💡  
 > “代码写得好，bug少一半；代码写得烂，加班到天亮。”  
 >—— 某个不知名的程序员
-
-### 我的Github数据 📊
-
-![Github数据](https://github-readme-stats.vercel.app/api?username=PhongFeng&show_icons=true&theme=radical)  
-
+  
 ![Skills](https://skillicons.dev/icons?i=unity,cs,unreal,py,lua,cpp,github,blender,jenkins)  
