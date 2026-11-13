@@ -1,10 +1,8 @@
-## Hi there 👋
-
 ![Hello](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVteDhqdHRqbGV5Z2x1Z3Rpa3VmcGRvMDVqN29xYXo1ZGd4Z3E2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VIKa3CjZDCoymNcBY5/giphy.gif)  
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
 
-# Hi, I'm Phong 👋
+## Hi there 👋
 
 ### AI Native Developer · Game Engineer · Agent Builder
 
@@ -100,6 +98,6 @@ A Unity game development framework built with GameFramework, HybridCLR and YooAs
 
 ---
 
-🌐 [Website](https://agentrib.com) · [GitHub](https://github.com/PhongFeng)
+🌐 [Agentrib](https://agentrib.com) · [GitHub](https://github.com/PhongFeng)
   
 ![Skills](https://skillicons.dev/icons?i=unity,cs,unreal,py,lua,cpp,github,blender,jenkins)  
