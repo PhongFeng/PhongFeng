@@ -4,25 +4,102 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
 
-### 一个正在探索代码世界的冒险家 🚀
-- 🔭 目前正在：和bug斗智斗勇，试图驯服它们成为我的宠物。
+# Hi, I'm Phong 👋
 
-- 🌱 正在学习：如何用代码让生活变得更懒（自动化一切！）。
+### AI Native Developer · Game Engineer · Agent Builder
 
-- 👯 希望合作：任何有趣的项目。
+> Building with AI. Exploring what's next.
 
-- 🤔 需要帮助：如何让代码像我的咖啡一样完美。
+一名拥有多年游戏研发经验的工程师，专注于游戏工程、AI 驱动的软件开发，以及 Agent 系统探索。
 
-- 💬 可以问我：关于如何用最少的代码实现最多的功能（或者如何优雅地输出文档）。
+我相信 AI 不只是一个辅助编程工具，而是一种全新的软件生产力。
 
-- 📫 如何联系我：发邮件，或者在我的社交媒体上留言（如果你能找到我）。
+正在从传统 Software Engineering 走向 AI Native Development，探索如何让多个 AI Agent 协作、让复杂工程变得更加自动化，以及如何独立构建真正有价值的产品。
 
-- 😄 我的代词：他/她/它/代码之神。
+---
 
-- ⚡ 有趣的事实：我曾经用一个bug修复了另一个bug，感觉自己像个黑客。
+## 🚀 What I'm Working On
 
-### 我最喜欢的名言 💡  
-> “代码写得好，bug少一半；代码写得烂，加班到天亮。”  
->—— 某个不知名的程序员
+**01. AI Agent & Harness Engineering**
+
+探索 AI Agent 的可靠性、可控性与持续执行能力。
+
+- Multi-Agent Orchestration
+- Coding Agent Collaboration
+- Harness Engineering
+- Agent Workflow & Automation
+- Cross-Model / Cross-Vendor Integration
+
+**02. Game Development**
+
+多年 Unity 游戏研发经验，持续探索 AI 与游戏开发的结合。
+
+- Unity / C# / Game Architecture
+- Game Framework & Tooling
+- HybridCLR / YooAsset
+- Resource Management & Hot Update
+- CI/CD & Automated Build Pipeline
+- Game AI & Gameplay Systems
+
+**03. AI Native Products**
+
+尝试将 AI 能力转化为真正可用的工具和产品。
+
+- AI-powered Developer Tools
+- Autonomous Agents
+- AI + Game
+- Indie Development
+
+---
+
+## 🛠️ Featured Projects
+
+### [Agentrib](https://github.com/PhongFeng/Agentrib)
+**Cross-Agent Orchestration**
+
+Exploring a unified orchestration layer for multiple AI coding agents.
+
+让不同模型、不同厂商、不同 Coding Agent 能够协同工作，探索下一代 AI 软件开发工作流。
+
+### [FFramework](https://github.com/PhongFeng/FFramework)
+**Unity Game Framework + AI Harness**
+
+A Unity game development framework built with GameFramework, HybridCLR and YooAsset.
+
+- Hot Update & Resource Management
+- Automated Build & Deployment
+- Grey Release & Version Rollback
+- AI-assisted Engineering Workflow
+
+---
+
+## 💻 Tech Stack
+
+**Game Development**
+
+`Unity` `C#` `Unreal Engine` `Godot` `URP`
+
+**AI & Agent**
+
+`Claude Code` `Codex` `AI Agents` `MCP` `Harness Engineering`
+
+**Engineering**
+
+`Python` `Git` `Jenkins` `CI/CD` `HybridCLR` `YooAsset`
+
+---
+
+## 🌱 Current Mindset
+
+- Build systems, not just features.
+- Build agents, not just prompts.
+- Focus on outcomes, not tools.
+- Stay curious, keep experimenting.
+
+**The future belongs to those who can build with AI.**
+
+---
+
+🌐 [Website](https://agentrib.com) · [GitHub](https://github.com/PhongFeng)
   
 ![Skills](https://skillicons.dev/icons?i=unity,cs,unreal,py,lua,cpp,github,blender,jenkins)  
